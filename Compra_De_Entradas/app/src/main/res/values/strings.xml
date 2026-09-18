@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Compra_De_Entradas</string>
+    <string name="symbol_minus">-</string>
+    <string name="symbol_plus">+</string>
+    <string name="title_purchase">Compra de entradas</string>
+    <string name="section_tickets">Cantidad de entradas</string>
+    <string name="price_per_ticket">Precio por entrada</string>
+    <string name="section_extras">Extras</string>
+    <string name="section_coupon">Cupón de descuento</string>
+    <string name="no_coupon">Sin cupón</string>
+    <string name="label_subtotal">Subtotal</string>
+    <string name="label_discount">Descuento</string>
+    <string name="label_total">Total</string>
+    <string name="button_buy">Comprar</string>
+    <string name="buy_confirmation">¡Compra realizada con éxito!</string>
+</resources>
